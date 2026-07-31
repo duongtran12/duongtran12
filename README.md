@@ -8,12 +8,12 @@ I'm a fourth-year Information Technology student at the Vietnam-Korea University
 
 ## Tech Stack
 
-**Languages:** Java · JavaScript · SQL
-**Backend:** Spring Boot · Spring Security · Spring Data JPA · Hibernate · RESTful APIs · JWT Authentication
-**Database:** PostgreSQL · MySQL · Redis
-**Messaging:** RabbitMQ
-**Frontend:** React · Vite
-**DevOps:** Docker · Docker Compose · Nginx · AWS EC2
+**Languages:** Java · JavaScript · SQL<br>
+**Backend:** Spring Boot · Spring Security · Spring Data JPA · Hibernate · RESTful APIs · JWT Authentication<br>
+**Database:** PostgreSQL · MySQL · Redis<br>
+**Messaging:** RabbitMQ<br>
+**Frontend:** React · Vite<br>
+**DevOps:** Docker · Docker Compose · Nginx · AWS EC2<br>
 **Tools:** Git · GitHub · Postman · IntelliJ IDEA · VS Code
 
 ## Contact
