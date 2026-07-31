@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there 👋 I'm Duong Tran
 
-<!--
-**duongtran12/duongtran12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on Java & Spring Boot.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Final-year Information Technology student
+- 💻 Interested in Backend Development
+- 🌱 Currently learning Distributed Systems
+- 🚀 Looking for Java Backend Internship
+
+## Tech Stack
+
+### Backend
+- Java 21
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- Hibernate
+
+### Database
+- PostgreSQL
+- MySQL
+- Redis
+
+### Message Broker
+- RabbitMQ
+
+### DevOps
+- Docker
+- Docker Compose
+- Nginx
+- AWS EC2
+
+### Tools
+- Git
+- GitHub
+- Postman
+- IntelliJ IDEA
+
+## Featured Projects
+
+### Event Ticket Booking System
+Spring Boot backend with JWT Authentication, VNPay payment, Docker deployment and AWS.
+
+### Distributed URL Shortener
+Distributed backend using Spring Boot, Redis, RabbitMQ and PostgreSQL.
+
+## Contact
+
+Email: tranducduong2204@gmail.com
+LinkedIn: www.linkedin.com/in/tranducduong
