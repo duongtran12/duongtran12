@@ -1,52 +1,20 @@
 # Hi there 👋 I'm Duong Tran
 
-Backend Developer focused on Java & Spring Boot.
+I'm a fourth-year Information Technology student at the Vietnam-Korea University of Information and Communication Technology (VKU), University of Danang.
 
-## About Me
+💻 I'm passionate about Backend Development with Java and Spring Boot, and currently learning distributed systems and backend architecture.
 
-- 🎓 Final-year Information Technology student
-- 💻 Interested in Backend Development
-- 🌱 Currently learning Distributed Systems
-- 🚀 Looking for Java Backend Internship
+🚀 I'm looking for a Java Backend Internship to gain real-world experience and continue improving my backend development skills.
 
 ## Tech Stack
 
-### Backend
-- Java 21
-- Spring Boot
-- Spring Security
-- Spring Data JPA
-- Hibernate
-
-### Database
-- PostgreSQL
-- MySQL
-- Redis
-
-### Message Broker
-- RabbitMQ
-
-### DevOps
-- Docker
-- Docker Compose
-- Nginx
-- AWS EC2
-
-### Tools
-- Git
-- GitHub
-- Postman
-- IntelliJ IDEA
-
-## Featured Projects
-
-### Event Ticket Booking System
-Spring Boot backend with JWT Authentication, VNPay payment, Docker deployment and AWS.
-
-### Distributed URL Shortener
-Distributed backend using Spring Boot, Redis, RabbitMQ and PostgreSQL.
+- **Backend:** Java, Spring Boot, Spring Security, Spring Data JPA
+- **Database:** PostgreSQL, MySQL, Redis
+- **Messaging:** RabbitMQ
+- **DevOps:** Docker, Docker Compose, AWS EC2, Nginx
+- **Tools:** Git, GitHub, Postman, IntelliJ IDEA
 
 ## Contact
 
-Email: tranducduong2204@gmail.com
-LinkedIn: www.linkedin.com/in/tranducduong
+- 📧 Email: tranducduong2204@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/tranducduong
