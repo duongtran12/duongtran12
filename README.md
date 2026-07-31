@@ -18,5 +18,5 @@ I'm a fourth-year Information Technology student at the Vietnam-Korea University
 
 ## Contact
 
-📧 Email: tranducduong@gmail.com
+📧 Email: tranducduong@gmail.com<br>
 💼 LinkedIn: https://linkedin.com/in/tranducduong
